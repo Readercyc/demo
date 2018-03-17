@@ -1,0 +1,76 @@
+#whatYouGet>.content>div:nth-child(1){
+	margin-top: 230px;
+	display: inline-block;
+	width: 450px;
+}
+#whatYouGet h1{
+	font-size: 43px;
+	color:#fff;
+	margin-bottom: 75px;
+}
+#whatYouGet p{
+	color:#fff;
+	padding: 7.5px 0px;
+}
+#get_button{
+	font-size: 12px;
+	height: 50px;
+	width: 140px;
+	line-height: 50px;
+	background-color: #41e0d8;
+	text-align: center;
+	color:#fff;
+	margin-top: 75px;
+}
+#show{
+	margin-top: 230px;
+	display: inline-block;
+	width: 470px;
+	vertical-align: top;
+}
+#window{
+	height: 406px;
+	list-style: none;
+	padding-left:0px;
+	width: 470px;
+}
+#window>li:nth-child(2){
+	margin-left:10px;
+}
+#window>li{
+	float: left;
+	width:225px;
+	height: 406px;
+	background-color: rgba(255,255,255,0.1);
+}
+#window_button{
+	
+	list-style: none;
+	padding-left: 0px;
+	width: 120px;
+	height: 15px;
+	margin: 15px auto;
+	text-align: center;
+}
+#window_button>li{
+	float:left;
+	background-color: rgba(255,255,255,0.5);
+	border-radius: 50%;
+	width: 15px;
+	height: 15px;
+	margin-left: 10px;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition:all 0.3s;
+
+}
+#window_button>li:hover{
+	float:left;
+	cursor: pointer;
+	background-color: rgba(255,255,255,0.88);
+	border-radius: 40%;
+	width: 25px;
+	height: 15px;
+	margin-left: 10px;
+
+}

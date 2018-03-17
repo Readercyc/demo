@@ -1,0 +1,48 @@
+#top>.content>img:nth-child(1){
+	position: absolute;
+	left: 40px;
+	top: 25px;
+}
+#top>.content>img:nth-child(2){
+	position: absolute;
+	left: 14px;
+	bottom: -100px;
+}
+#top ul{
+	margin-top: 60px;
+	padding-left: 0px;
+	list-style: none;
+	height: 50px;
+	float:right;
+	width: 300px;
+}
+#top ul li{
+	color:#fff;
+	float: left;
+	height: 50px;
+	width: 140px;
+	line-height: 50px;
+	margin-left: 10px;
+	text-align: center;
+	transition: 0.3s all;
+	-webkit-transition:0.3s all;
+	-moz-transition:0.3s all;
+}
+
+#top ul li:hover{
+	cursor: pointer;
+	background-color:#262a34;
+}
+#top .textbox{
+	width: 460px;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+.textbox img,.textbox h1{
+	margin-bottom: 75px;
+}
+.textbox p{
+	color: #fff;
+	padding:7.5px 0px;
+}
