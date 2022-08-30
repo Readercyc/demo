@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T07:56:54.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="AhIgY1A0pDCzPMQUn7PP" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T08:16:46.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7ytXLTcfBuI5p4Npap0c" version="20.2.4" type="github">
   <diagram id="XerLuX8gjZ4Qrnr397_4" name="第 1 页">
     <mxGraphModel dx="3436" dy="1779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,11 +25,17 @@
         <mxCell id="Btgb__d3ryDDSwUvl4Ch-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Btgb__d3ryDDSwUvl4Ch-4" target="Btgb__d3ryDDSwUvl4Ch-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Btgb__d3ryDDSwUvl4Ch-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Btgb__d3ryDDSwUvl4Ch-4" target="Btgb__d3ryDDSwUvl4Ch-47">
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Btgb__d3ryDDSwUvl4Ch-13" target="Btgb__d3ryDDSwUvl4Ch-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Btgb__d3ryDDSwUvl4Ch-13" target="Btgb__d3ryDDSwUvl4Ch-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Btgb__d3ryDDSwUvl4Ch-13" target="Btgb__d3ryDDSwUvl4Ch-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Btgb__d3ryDDSwUvl4Ch-4" value="Zego" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="136" y="-573" width="160" height="80" as="geometry" />
+          <mxGeometry x="387" y="-581" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Btgb__d3ryDDSwUvl4Ch-5" value="Agora Client" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-887" y="-441" width="160" height="80" as="geometry" />
@@ -55,8 +61,16 @@
         <mxCell id="Btgb__d3ryDDSwUvl4Ch-11" value="TRTC Stream" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-171" y="-439" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Btgb__d3ryDDSwUvl4Ch-13" target="Btgb__d3ryDDSwUvl4Ch-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Btgb__d3ryDDSwUvl4Ch-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="236" y="-401" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Btgb__d3ryDDSwUvl4Ch-13" value="ZegoExpressEngine" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="29" y="-439" width="160" height="80" as="geometry" />
+          <mxGeometry x="390" y="-441" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Btgb__d3ryDDSwUvl4Ch-17" value="Agora的Client与TRTC的Client作用基本一致，该类均有如何「使用」媒体流的方法，以及一些通用业务逻辑.Zego没有Client，其自身SDK基类即为Client&lt;br&gt;&lt;br&gt;三家均有媒体流概念，Zego和TRTC称为Stream，其创建方法都为createStream，并通过传参的形式控制该流的属性，如纯音频、编码参数等；Agora则通过不同的API创建不同类型的Track。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="-1156" y="-521" width="240" height="160" as="geometry" />
@@ -128,7 +142,45 @@
           <mxGeometry x="-307" y="-196" width="234" height="79" as="geometry" />
         </mxCell>
         <mxCell id="Btgb__d3ryDDSwUvl4Ch-47" value="ZegoAudioEffectPlayer" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="216" y="-439" width="160" height="80" as="geometry" />
+          <mxGeometry x="293" y="-306" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-49" value="ZegoExpressRangeAudio" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="496" y="-309" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-51" value="ZegoStreamView" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="72" y="-309" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-53" value="Zego的SDK架构和TRTC、Agora差异较为明显，最核心的差别在于Zego把大量实时音视频核心的业务功能均整合到【ZegoExpressEngine】中，而并非是通过Stream类来实现。&lt;br&gt;&lt;br&gt;而【ZegoStreamView】也与流的概念无关，其实际是一个播放器模块。不同于Agora和TRTC把播放操作整合在stream类上，Zego把播放等媒体操作（如play，pause等）单独放在了该模块上，同时针对本地流和远端流需要用不同的API创建。&lt;br&gt;&lt;br&gt;其余的两个模块均是加工处理，并非为必需模块" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="219" y="-182" width="342" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-62" value="new&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="411" y="-489" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-65" value="ZegoRealTimeSequentialDataManager" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="689" y="-310.5" width="223" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-69" value="Zego stream" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="64" y="-455" width="198" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-72" value="createStream" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="281" y="-453" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-74" value="createLocalStreamView/createRemoteStreamView" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;hachureGap=4;rotation=-10;" vertex="1" parent="1">
+          <mxGeometry x="111" y="-361" width="288" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-83" value="" style="curved=1;endArrow=none;html=1;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Btgb__d3ryDDSwUvl4Ch-51" target="Btgb__d3ryDDSwUvl4Ch-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="-249" as="sourcePoint" />
+            <mxPoint x="50" y="-299" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="13" y="-290" />
+              <mxPoint x="13" y="-361" />
+              <mxPoint x="31" y="-386" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Btgb__d3ryDDSwUvl4Ch-85" value="作为参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="12" y="-350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
