@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T08:19:29.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RJFAAGic_HlNQAeFDbMV" version="20.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-04T08:26:19.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bv--4dvQVDi9EgcWWSYy" version="20.5.1" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="821" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="821" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -839,6 +839,57 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_KhlSkRvipeoY8U3LHEr" name="第 10 页">
+    <mxGraphModel dx="821" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLMWxWhv2Bbw9oQFH7I7-5" target="aLMWxWhv2Bbw9oQFH7I7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-5" value="客户进入会话" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLMWxWhv2Bbw9oQFH7I7-6" target="aLMWxWhv2Bbw9oQFH7I7-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-6" value="推送摄像头、麦克风" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aLMWxWhv2Bbw9oQFH7I7-9" target="aLMWxWhv2Bbw9oQFH7I7-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-9" value="客服提出需分享屏幕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLMWxWhv2Bbw9oQFH7I7-12" target="aLMWxWhv2Bbw9oQFH7I7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-12" value="关闭摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLMWxWhv2Bbw9oQFH7I7-14" target="aLMWxWhv2Bbw9oQFH7I7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-14" value="打开屏幕分享并设为主路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLMWxWhv2Bbw9oQFH7I7-16" target="aLMWxWhv2Bbw9oQFH7I7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-16" value="开启悬浮窗保活" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLMWxWhv2Bbw9oQFH7I7-19" value="观看结束，主路切回摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
