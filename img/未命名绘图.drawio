@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T03:44:32.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vyW5-oOn5oUHD5xFwuQe" version="20.5.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-11-18T03:53:20.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8i7pZI6mh1TbxYiUXIbM" version="20.5.3" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="821" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -894,7 +894,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IcskrmYRQTrCAPc2Dh4y" name="第 11 页">
-    <mxGraphModel dx="821" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="966" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -906,6 +906,11 @@
         </mxCell>
         <mxCell id="dp8anVMq8E8c9wmtj_g3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-2" target="dp8anVMq8E8c9wmtj_g3-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-2" target="dp8anVMq8E8c9wmtj_g3-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dp8anVMq8E8c9wmtj_g3-2" value="加载 TRTC 巡检 iframe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="270" width="120" height="60" as="geometry" />
@@ -922,8 +927,89 @@
         <mxCell id="dp8anVMq8E8c9wmtj_g3-6" value="拉取该uin下所有sdkappid及用量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dp8anVMq8E8c9wmtj_g3-8" value="订阅/取消订阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-8" target="dp8anVMq8E8c9wmtj_g3-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-8" value="订阅某sdkappid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-12" target="dp8anVMq8E8c9wmtj_g3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-12" target="dp8anVMq8E8c9wmtj_g3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-12" value="是否已在巡检列表里" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="140" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-15" value="发起一次巡检" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="155" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-18" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-22" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="120" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-23" value="这里建议是有一定用量之后的&lt;br&gt;sdkappid才允许订阅&lt;br&gt;一方面减轻压力，另一方面巡检系统基于日志，日志数不足分析不准确" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-25" target="dp8anVMq8E8c9wmtj_g3-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-25" value="Tab 2&amp;nbsp;&lt;br&gt;查看 巡检结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-28" target="dp8anVMq8E8c9wmtj_g3-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-28" value="以订阅的sdkappid为首列，请求报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-30" target="dp8anVMq8E8c9wmtj_g3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-30" target="dp8anVMq8E8c9wmtj_g3-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-30" value="展示异常项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-33" value="标记解决" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-35" value="被标记为解决的巡检项可以&lt;br&gt;变为灰色并把顺序调到底下" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="460" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-36" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="450" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-37" value="sdkappid" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="dp8anVMq8E8c9wmtj_g3-36">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-38" value="巡检项相关信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="dp8anVMq8E8c9wmtj_g3-36">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-39" value="是否解决" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="dp8anVMq8E8c9wmtj_g3-36">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dp8anVMq8E8c9wmtj_g3-43" target="dp8anVMq8E8c9wmtj_g3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-43" value="基于巡检项创建工单" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dp8anVMq8E8c9wmtj_g3-46" value="定期，一定时间范围内展示&lt;br&gt;缓存数据（日志更新为7天一周期）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;size=17;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
