@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T03:20:52.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TuFXvaIfG_MB0X3GsmEo" version="21.0.4" type="github"><diagram name="第 1 页" id="pOd7ZQ0ND3ZFLBX5bLq9">ddHNEoIgEADgp+Gu0I+dzerSyUNnRjZhBl0GabSePh0wY6wLs3wsLAuE5c1wttzIKwrQhCZiIOxIKM0YG8cJnh62m8xDbZXwlC5QqhcETII+lIAuSnSI2ikTY4VtC5WLjFuLfZx2Rx1XNbyGFZQV12u9KeFkaIvuF7+AquVcOd0d/ErD5+TQSSe5wP6LWEFYbhGdj5ohBz293fwuft/pz+rnYhZa92PDGCxnj5Pog1jxBg==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-09T03:51:47.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9nFL__Y8uSPaHPFK0Doo" version="21.0.4" type="github">
+  <diagram name="第 1 页" id="pOd7ZQ0ND3ZFLBX5bLq9">
+    <mxGraphModel dx="1190" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PMakBJLXeSVaQAxij3l3-1" value="&lt;h1&gt;自助化部分&lt;/h1&gt;&lt;p&gt;每次提交新巡检项要完成以下步骤&lt;/p&gt;&lt;p&gt;1. 在log模块配置文件中添加新dsl代码&lt;/p&gt;&lt;p&gt;2. 在log模块配置文件中添加新巡检项及对应dsl代码关联关系&lt;/p&gt;&lt;p&gt;3. 在report模块中扩充数组，需发版&lt;/p&gt;&lt;p&gt;4. 在巡检脚本中添加巡检项和巡检逻辑&lt;/p&gt;&lt;p&gt;5. 在巡检脚本中添加文案文档&lt;/p&gt;&lt;p&gt;验证部分&lt;/p&gt;&lt;p&gt;1. 验证dsl是否能查出日志&lt;/p&gt;&lt;p&gt;2. 验证脚本是否能正确分析日志&lt;/p&gt;&lt;p&gt;验证完成后才可上架。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="220" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="PMakBJLXeSVaQAxij3l3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="510" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="PMakBJLXeSVaQAxij3l3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PMakBJLXeSVaQAxij3l3-3" target="PMakBJLXeSVaQAxij3l3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMakBJLXeSVaQAxij3l3-3" value="输入dsl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PMakBJLXeSVaQAxij3l3-4" value="返回一定数量的加工后日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PMakBJLXeSVaQAxij3l3-6" value="测试环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
