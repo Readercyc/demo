@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T03:52:26.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sZEsA5t9EfI1vO793GC2" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T07:07:13.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="aAgCOWxNN-DkZloLsbr_" version="21.0.4" type="github">
   <diagram name="第 1 页" id="pOd7ZQ0ND3ZFLBX5bLq9">
     <mxGraphModel dx="833" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,13 +74,19 @@
           <mxGeometry x="575" y="585" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pkPpZ5SSDUmFHS8OKQbJ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="700" width="760" height="110" as="geometry" />
+          <mxGeometry x="40" y="700" width="760" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pkPpZ5SSDUmFHS8OKQbJ-22" value="巡检项上架流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="680" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pkPpZ5SSDUmFHS8OKQbJ-23" value="填写表单，填写巡检项id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="710" width="200" height="40" as="geometry" />
+        <mxCell id="pkPpZ5SSDUmFHS8OKQbJ-23" value="填写表单，填写巡检项id和巡检项规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="710" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pkPpZ5SSDUmFHS8OKQbJ-26" value="注：这里巡检项规则是有限制的，自助上架建议先开放逻辑不复杂且结果较为确定的巡检项，且尽可能保证语义化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="715" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pkPpZ5SSDUmFHS8OKQbJ-27" value="填写表单，填写巡检项id和巡检项规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="775" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
